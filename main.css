@@ -9,12 +9,12 @@ html{
 .joc{
     height: 33vh;
     width: 100vw;
-    padding-top: 30px;
+    padding-top: 25px;
 }
 .style1{
     font-size: 2rem;
     color: rgb(42, 180, 175);
-    padding-bottom: 1em;
+    padding-bottom: 1rem;
     padding-left: 30px;
 }
 .style2{
